@@ -121,12 +121,14 @@ ul.skills {
 }
 
 .characters {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
   border-radius: 6px;
-  display: inline-block;
-  background: #ff9904
-  color: red;
-  padding: 5px 10px;
-  margin: 2px
+  transition: all .5s;
 }
 footer {
   width: 100%;
