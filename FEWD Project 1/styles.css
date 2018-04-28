@@ -123,6 +123,7 @@ ul.skills {
 .characters {
   border-radius: 6px;
   display: inline-block;
+  background: #ff9904
   color: red;
   padding: 5px 10px;
   margin: 2px
