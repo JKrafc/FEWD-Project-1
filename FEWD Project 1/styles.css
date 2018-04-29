@@ -157,6 +157,17 @@ ul.skills {
 .characters:hover {
     border-color: #ff99ff;
 }
+
+.quotes {
+  margin: 20px;
+  padding: 20px 20px 20px;
+  max-width: 500px;
+  text-align: center;
+  background: #fff;
+  border-bottom: 4px solid red;
+  border-radius: 6px;
+  transition: all .5s;
+}
 footer {
   width: 100%;
   min-height: 30px;
