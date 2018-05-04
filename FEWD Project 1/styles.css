@@ -4,7 +4,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 20px;
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -181,12 +181,11 @@ footer .copyright {
 
 footer ul {
   list-style-type: none;
-  margin: 0;
+  margin: 50px;
   padding: 0;
 }
+footer {
 
-footer ul li {
-  display: inline-block;
 }
 
 a.social {
